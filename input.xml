@@ -1,0 +1,68 @@
+<object>
+	<obj_name>hero hero</obj_name>
+	<field>
+		<name>favorite_snack</name>
+		<type>string</type>
+		<value>Chips</value>
+	</field>
+	<field>
+		<name>hero</name>
+		<type>string</type>
+		<value>superman</value>
+	</field>
+	<field>
+		<name>age</name>
+		<type>int</type>
+		<value>43</value>
+	</field>
+</object>
+<object>
+	<obj_name>another hero</obj_name>
+	<field>
+		<name>favorite_movie</name>
+		<type>string</type>
+		<value>John Wick 3</value>
+	</field>
+	<field>
+		<name>hero</name>
+		<type>string</type>
+		<value>John Wick</value>
+	</field>
+	<field>
+		<name>age</name>
+		<type>int</type>
+		<value>19</value>
+	</field>
+</object>
+<object>
+	<obj_name>random object</obj_name>
+	<field>
+		<name>color</name>
+		<type>string</type>
+		<value>turbo red</value>
+	</field>
+</object>
+<object>
+	<obj_name></obj_name>
+</object>
+<object>
+	<obj_name>another random object</obj_name>
+	<field>
+		<name>color</name>
+		<type>string</name>
+	</field>
+ <wrongfield>heh"</wrongfield>
+	<field>
+		<name>color</name>
+		<type>int</type>
+		<value>333</value>
+	</field>
+</object>
+<object>
+	<obj_name>Ultimate Gauntlet of Destruction </obj_name>
+	<field>
+		<name>Strength</name>
+		<type>int</type>
+		<value>9999</value>
+	</field>
+</object>

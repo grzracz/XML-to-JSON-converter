@@ -1,0 +1,21 @@
+{
+	 "hero hero": {
+		"favorite_snack": "Chips",
+		"hero": "superman",
+		"age": 43
+	 },
+	 "another hero": {
+		"favorite_movie": "John Wick 3",
+		"hero": "John Wick",
+		"age": 19
+	 },
+	 "random object": {
+		"color": "turbo red"
+	 },
+	 "another random object": {
+		"color": 333
+	 },
+	 "Ultimate Gauntlet of Destruction ": {
+		"Strength": 9999
+	 }
+}

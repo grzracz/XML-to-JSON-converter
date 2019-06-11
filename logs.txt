@@ -1,0 +1,11 @@
+2019-06-11 11:07:54.031684
+# Errors:
+Char 930: Found incorrect tag: "<wrongfield>"
+Char 943: Found incorrectly placed text: "heh""
+Char 946: Found incorrect tag: "</wrongfield>"
+String 107: Not a proper closing tag to <type>: "</name>"
+Object 4: Object name was not set
+Object 5: Required fields were not filled
+#
+DONE: 1208 characters analyzed in 0.080385 seconds
+
